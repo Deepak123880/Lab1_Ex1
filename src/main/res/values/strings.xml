@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Change Language for fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment displayed</string>
+    <string name="frag">TextView</string>
+    <string name="onStart">Frags</string>
+    <string name="onCreate">TextView</string>
+    <string name="Activity1">AlActivity</string>
+    <string name="Activity2">VRActivity</string>
+
+
+</resources>
+
